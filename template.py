@@ -7,7 +7,7 @@ project_name = "src"
 # XTtntYVSb5AXVkjF
 
 
-# mongodb+srv://sarkarsayandeep093_db_user:<db_password>@cluster0.e4cxcgp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+# mongodb+srv://sarkarsayandeep093_db_user:XTtntYVSb5AXVkjF@cluster0.e4cxcgp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 
 
