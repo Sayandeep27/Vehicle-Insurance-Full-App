@@ -3,6 +3,14 @@ from pathlib import Path
 
 project_name = "src"
 
+# sarkarsayandeep093_db_user
+# XTtntYVSb5AXVkjF
+
+
+# mongodb+srv://sarkarsayandeep093_db_user:<db_password>@cluster0.e4cxcgp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+
 list_of_files = [
 
     f"{project_name}/__init__.py",
