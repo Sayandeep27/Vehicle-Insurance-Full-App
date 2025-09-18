@@ -11,6 +11,9 @@ project_name = "src"
 
 
 
+# $env:MONGODB_URL = "mongodb+srv://sarkarsayandeep093_db_user:XTtntYVSb5AXVkjF@cluster0.e4cxcgp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+
 list_of_files = [
 
     f"{project_name}/__init__.py",
